@@ -1,0 +1,16 @@
+.hed {
+  text-align: center;
+  border-bottom: 3px solid white;
+  padding-bottom: 20px;
+}
+
+.place-order-btn {
+  border: none;
+  outline: none;
+  background-color: #ff9800;
+  padding: 8px 12px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: bold;
+  color: black;
+}

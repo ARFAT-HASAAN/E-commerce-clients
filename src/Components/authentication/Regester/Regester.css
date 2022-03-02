@@ -1,0 +1,55 @@
+.title {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+.Form {
+  /* border: 2px solid black; */
+  border-radius: 5px;
+  box-shadow: 0 4px 8px -4px #ff9800;
+  /* box-shadow: 1px 1px 1px black; */
+  width: 20%;
+  margin: 29px auto;
+  padding: 29px;
+}
+
+label {
+  font-weight: bold;
+  /* display: block; */
+
+  /* margin-bottom: 3px; */
+}
+input {
+  width: 100%;
+  padding: 9px;
+  margin-top: 5px;
+  margin-bottom: 9px;
+  border-radius: 5px;
+  border: 1px solid #d1d1d1;
+}
+input:focus {
+  outline-color: #ff9800;
+  /* outline: #ff9800; */
+}
+input[type="submit"] {
+  width: 160px;
+  border-radius: none;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: block;
+  margin: 10px auto 0px;
+  cursor: pointer;
+}
+
+button {
+  border: none;
+  outline: none;
+  text-align: center;
+  padding: 6px 8px;
+  margin: 0px 4px;
+  border-radius: 4px;
+  cursor: pointer;
+}
